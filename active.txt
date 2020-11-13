@@ -1,3 +1,3 @@
-test1.mdx
-test2.mdx
-testx.mdx
+test1
+test2
+testx
